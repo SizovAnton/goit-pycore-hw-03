@@ -15,6 +15,4 @@ def get_days_from_today (date):
     print(f'Date must be yyyy.mm.dd format')
 
   
-
-
 get_days_from_today("2024.07.14")
